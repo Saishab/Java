@@ -19,6 +19,7 @@ public class some_basic {
          int x = 5;
          int y = 9;
          int z = 10;
+         // there's another method as well 
         System.out.println("The final output is "+ (x+y+z));
 
     }
